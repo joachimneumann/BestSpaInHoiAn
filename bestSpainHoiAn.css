@@ -1,0 +1,98 @@
+td.verticalCenter {
+    vertical-align: middle;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+.row{ display: flex; align-items: center;}
+
+
+.container {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.logoImage {
+    width: 15vw;
+    min-width: 100px;
+    margin-right: 2vw;
+    margin-bottom: 1vw;
+}
+
+.spaImage{
+    width: 100%;
+}
+
+.btn-info {
+    --bs-btn-color: #000;
+    --bs-btn-bg: #5da1b6;
+    --bs-btn-hover-bg: #4C8394;
+    --bs-btn-hover-color: white;
+    color: white;
+}
+
+.centerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.table>:not(caption)>*>* {
+    padding-right: 0.2rem;
+    padding-left: 0.2rem;
+}
+
+h1 {
+    margin-top: 40px;
+}
+
+.verdict {
+    color: gray;
+}
+
+.card-title1 {
+    font-size: 10vw;
+    padding-left: 1vw;
+    line-height: 8vw;
+    --bs-card-title-spacer-y: 0;
+    color: #F8E59C;
+}
+
+.card-title2 {
+    font-size: 3vw;
+    padding-left: 1.5vw;
+    line-height: 8vw;
+    --bs-card-title-spacer-y: 0;
+    color: #F8E59C;
+}
+
+.card-img-overlay {
+    padding: 0;
+}
+
+#head
+{
+    font-weight: 700;
+    font-family: 'Chivo', sans-serif;
+    font-size: 20px;
+    color: #987a00;
+}
+.outside-tip
+{
+    border: solid 2px #ffd500;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    line-height: 25px;
+    overflow: hidden;
+    padding: 15px 25px;
+    background-color: #F8E59C;
+    margin: 60px;
+}
+
