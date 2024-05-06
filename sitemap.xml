@@ -1,81 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-    <loc>http://www.bestspainhoian.com/</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/Citrus_vs_Cam Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/Citrus_vs_Lavender Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/Citrus_vs_Coral.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/Citrus_vs_La Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/Citrus_vs_Heart of The Earth.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/Citrus_vs_Anantara Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/naia_vs_Cam Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/naia_vs_Lavender Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/naia_vs_Coral.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/naia_vs_La Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/naia_vs_Heart of The Earth.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
-<url>
-    <loc>http://www.bestspainhoian.com/naia_vs_Anantara Spa.html</loc>
-    <lastmod>2024-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-</url>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.bestspainhoian.com/</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/Citrus_vs_Cam Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/Citrus_vs_Lavender Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/Citrus_vs_Coral.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/Citrus_vs_La Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/Citrus_vs_Heart of The Earth.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/Citrus_vs_Anantara Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/naia_vs_Cam Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/naia_vs_Lavender Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/naia_vs_Coral.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/naia_vs_La Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/naia_vs_Heart of The Earth.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.bestspainhoian.com/naia_vs_Anantara Spa.html</loc>
+        <lastmod>2024-05-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/CitrusLogo.png</image:loc>
+        <image:caption>Icon of Citrus Health Spa</image:caption>
+        <image:title>Icon of Citrus</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/CitrusImage.png</image:loc>
+        <image:caption>Massage at Citrus Health Spa</image:caption>
+        <image:title>Massage at Citrus</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/naiaLogo.png</image:loc>
+        <image:caption>Icon of naia an mỹ: spa + food</image:caption>
+        <image:title>Icon of naia</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/naiaImage.png</image:loc>
+        <image:caption>Massage at naia an mỹ: spa + food</image:caption>
+        <image:title>Massage at naia</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Cam SpaLogo.png</image:loc>
+        <image:caption>Icon of Cám Spa</image:caption>
+        <image:title>Icon of Cam Spa</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Cam SpaImage.png</image:loc>
+        <image:caption>Massage at Cám Spa</image:caption>
+        <image:title>Massage at Cam Spa</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Lavender SpaLogo.png</image:loc>
+        <image:caption>Icon of Phước Lavender Spa</image:caption>
+        <image:title>Icon of Lavender Spa</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Lavender SpaImage.png</image:loc>
+        <image:caption>Massage at Phước Lavender Spa</image:caption>
+        <image:title>Massage at Lavender Spa</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/CoralLogo.png</image:loc>
+        <image:caption>Icon of Coral Spa</image:caption>
+        <image:title>Icon of Coral</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/CoralImage.png</image:loc>
+        <image:caption>Massage at Coral Spa</image:caption>
+        <image:title>Massage at Coral</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/La SpaLogo.png</image:loc>
+        <image:caption>Icon of La Spa by La Siesta</image:caption>
+        <image:title>Icon of La Spa</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/La SpaImage.png</image:loc>
+        <image:caption>Massage at La Spa by La Siesta</image:caption>
+        <image:title>Massage at La Spa</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Heart of The EarthLogo.png</image:loc>
+        <image:caption>Icon of The Heart of The Earth Spa</image:caption>
+        <image:title>Icon of Heart of The Earth</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Heart of The EarthImage.png</image:loc>
+        <image:caption>Massage at The Heart of The Earth Spa</image:caption>
+        <image:title>Massage at Heart of The Earth</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Anantara SpaLogo.png</image:loc>
+        <image:caption>Icon of Anantara Spa</image:caption>
+        <image:title>Icon of Anantara Spa</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://bestspainhoian.com/assets/Anantara SpaImage.png</image:loc>
+        <image:caption>Massage at Anantara Spa</image:caption>
+        <image:title>Massage at Anantara Spa</image:title>
+    </image:image>
 </urlset>
