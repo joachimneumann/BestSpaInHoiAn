@@ -17,11 +17,6 @@ td.verticalCenter {
 .row{ display: flex; align-items: center;}
 
 
-.container {
-    padding-right: 0;
-    padding-left: 0;
-}
-
 .logoImage {
     width: 15vw;
     min-width: 100px;
@@ -74,6 +69,10 @@ h1 {
     line-height: 8vw;
     --bs-card-title-spacer-y: 0;
     color: var(--darkYellow);
+}
+
+.card-img-overlay {
+    top: unset;
 }
 
 .card-title2 {
