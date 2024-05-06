@@ -4,6 +4,15 @@ td.verticalCenter {
     margin-bottom: 0;
 }
 
+:root {
+    --lightGreen: #80BF8A;
+    --darkGreen: #64A651;
+    --veryDarkGreen: #356d26;
+    --white: #F2F2F0;
+    --lightYellow: #F2CD5C;
+    --darkYellow: #F2C063;
+    --veryDarkYellow: #976e21;
+}
 
 .row{ display: flex; align-items: center;}
 
@@ -24,12 +33,14 @@ td.verticalCenter {
     width: 100%;
 }
 
-.btn-info {
-    --bs-btn-color: #000;
-    --bs-btn-bg: #5da1b6;
-    --bs-btn-hover-bg: #4C8394;
-    --bs-btn-hover-color: white;
+.spaButton {
     color: white;
+    background-color: var(--darkGreen);
+}
+
+.spaButton:hover {
+    color: white;
+    background-color: var(--veryDarkGreen);
 }
 
 .centerImage {
@@ -43,9 +54,10 @@ td.verticalCenter {
     border: none;
 }
 
-.table>:not(caption)>*>* {
+.th {
     padding-right: 0.2rem;
     padding-left: 0.2rem;
+    background-color: var(--white)
 }
 
 h1 {
@@ -61,7 +73,7 @@ h1 {
     padding-left: 1vw;
     line-height: 8vw;
     --bs-card-title-spacer-y: 0;
-    color: #F8E59C;
+    color: var(--darkYellow);
 }
 
 .card-title2 {
@@ -69,7 +81,11 @@ h1 {
     padding-left: 1.5vw;
     line-height: 8vw;
     --bs-card-title-spacer-y: 0;
-    color: #F8E59C;
+    color: var(--darkYellow);
+}
+
+.spaHeader {
+    color: var(--darkGreen)
 }
 
 .card-img-overlay {
@@ -81,18 +97,18 @@ h1 {
     font-weight: 700;
     font-family: 'Chivo', sans-serif;
     font-size: 20px;
-    color: #987a00;
+    color: var(--veryDarkYellow);
 }
 .outside-tip
 {
-    border: solid 2px #ffd500;
+    border: solid 2px var(--darkYellow);
     border-radius: 6px;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     line-height: 25px;
     overflow: hidden;
     padding: 15px 25px;
-    background-color: #F8E59C;
+    background-color: var(--lightYellow);
     margin: 60px;
 }
 
